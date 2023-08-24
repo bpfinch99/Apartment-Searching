@@ -20,9 +20,7 @@ Using selenium to search apartments
 ## Files Included
 
 - `apartment_search_tool.ipynb`: The Python script that performs web scraping, data collection, and data organization.
-- `apt_complex.csv`: A CSV file containing details of different apartment complexes.
-- `amenities.csv`: A CSV file mapping amenities to unique IDs.
-- `complex_amenities_map.csv`: A CSV file associating apartment complexes with their offered amenities.
+- `apartment_search_tool.ipynb` will however, produce 3 csv files one can use for further analysis
 
 ## Usage
 
