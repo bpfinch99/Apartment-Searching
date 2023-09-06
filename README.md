@@ -1,4 +1,4 @@
-# Apartment-Searching
+# Python Web Scraping Project
 Using selenium to search apartments
 
 ## How it Works
